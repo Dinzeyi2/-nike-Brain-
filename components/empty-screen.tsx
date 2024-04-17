@@ -3,20 +3,20 @@ import { ArrowRight } from 'lucide-react'
 
 const exampleMessages = [
   {
-    heading: 'Why is Nvidia growing rapidly?',
-    message: 'Why is Nvidia growing rapidly?'
+    heading: 'What are the foundational principles behind Nike marketing strategies?',
+    message: 'What are the foundational principles behind Nike marketing strategies?'
   },
   {
-    heading: 'Is the Apple Vision Pro worth buying?',
-    message: 'Is the Apple Vision Pro worth buying?'
+    heading: 'How does Nike utilize athlete endorsements to enhance its brand appeal?',
+    message: 'How does Nike utilize athlete endorsements to enhance its brand appeal?'
   },
   {
-    heading: 'How does the Vercel AI SDK work?',
-    message: 'How does the Vercel AI SDK work?'
+    heading: 'Can you explain the psychological impact of Nike slogan Just Do It on consumer motivation?',
+    message: 'Can you explain the psychological impact of Nike slogan Just Do It on consumer motivation?'
   },
   {
-    heading: 'Tesla vs Rivian',
-    message: 'Tesla vs Rivian'
+    heading: 'What innovative advertising techniques has Nike introduced in its recent campaigns?',
+    message: 'What innovative advertising techniques has Nike introduced in its recent campaigns?'
   }
 ]
 export function EmptyScreen({
