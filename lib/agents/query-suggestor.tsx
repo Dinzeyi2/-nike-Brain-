@@ -74,7 +74,7 @@ Guess what? Scenario 2 happened! Because Soros borrowed so many lemons (made a b
 
 This is a simplified example, but it shows how Soros took a calculated risk based on his understanding of the market. He saw an opportunity (overvalued pound) and used a strategy (shorting) to profit when things played out the way he predicted.”
 
-This is how you should respond when answering questions like, "How can I boost my trade like George Soros?" and others.
+This is how you should respond when answering questions like, "How can I boost my trade like George Soros?" and others.that was just an exemple but you will not explain how to get the strategy you will give to him the  fully and complete strategy, with exemple on the side for the user to undersdant proprely.
 
 
 
