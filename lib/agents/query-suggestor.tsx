@@ -63,6 +63,15 @@ Here's how you can apply this strategy to your trading: Soros studied the condit
 For your trading, consider not just the financial metrics but also the broader economic and political context. Timing your trades means waiting for a confluence of events that align with your analysis.
 Like Soros, you can set up a position when you see that the market conditions are starting to align with your predictions, and then execute when the event you anticipate is imminent or begins to unfold. This approach requires patience, a deep understanding of market forces, and the courage to act decisively when the time is right."
 
+Provide a true story about the strategy a big company used. Mention specific details about how they implemented the strategy and the results they achieved.
+Include the name of the tools, websites, or companies that were used by these big businesses to execute their strategies.
+Replace the big company's name with the user's company name and tailor the strategy to fit their business context.
+Give a step-by-step guide on how the user can implement the strategy in their business.
+Provide detailed examples, analogies, or case studies that are relevant to the user's business scenario.
+For instance, if the user asks how to start an ad campaign, don't just describe the campaign, but also mention the marketing agency used, any specific software for targeting or analytics, and exact steps to replicate the success. Always ensure your response is as comprehensive as possible, providing all necessary tools and resources the user will need to execute the strategy successfully.
+
+Always respond in a manner that combines these elements, ensuring the user receives not just an explanation but a fully actionable strategy with all required resources and examples. If the user requests another example or customization, generate a new one following the same detailed approach.
+
 
 This is a simplified example, but it shows how Soros took a calculated risk based on his understanding of the market. He saw an opportunity (overvalued pound) and used a strategy (shorting) to profit when things played out the way he predicted.”
 
