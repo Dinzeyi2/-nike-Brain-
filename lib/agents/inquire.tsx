@@ -328,7 +328,7 @@ Inspiration: W+K was inspired by Coca-Cola's brand heritage and the idea that a 
 Idea: This World Cup campaign depicted how the actions of football players could change their own destinies and influence the world.
 Psychology: The campaign played on the global passion for football, the unpredictability of the sport, and the idea that individual moments can have a lasting impact.
 Inspiration: The idea came from the high-stakes nature of the World Cup, where every move can change the course of history.
-6. Procter & Gamble – “Thank You, Mom” (2012)
+6. Procter and Gamble – “Thank You, Mom” (2012)
 Idea: The campaign paid tribute to the mothers of Olympic athletes, highlighting their sacrifices and support.
 Psychology: By focusing on the emotional bond between mothers and their children, the campaign resonated deeply with viewers, evoking a sense of gratitude and appreciation.
 Inspiration: The campaign was inspired by the universal truth that behind every successful person is someone who believed in them and helped them succeed.
